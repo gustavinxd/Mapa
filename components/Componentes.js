@@ -48,11 +48,11 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: 22,
     fontWeight: 'bold',
-    color: '#e74c3c',
+    color: '#1417A8',
   },
   positonBoxLatLon: {flexDirection: 'row', justifyContent: 'space-between'},
   locationButton: {
-    backgroundColor: '#e74c3c',
+    backgroundColor: '#1417A8',
     borderRadius: 150,
     marginTop: -15,
     width: 50,
