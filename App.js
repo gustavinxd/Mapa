@@ -54,7 +54,7 @@ const App = () => {
       <LocaltionButton reqLoc={request_location_runtime_permission()}/>
       <View style={styles.logo}>
         <Text style={styles.logoText}>Mapa</Text>
-        <Text style={[styles.logoText, {color: '#e74c3c'}]}>Top</Text>
+        <Text style={[styles.logoText, {color: '#1417A8'}]}>Top</Text>
       </View>
     </View>
   );
